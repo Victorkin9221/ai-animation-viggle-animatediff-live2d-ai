@@ -12,7 +12,7 @@ AI Animation — animatediff, live2d ai, ai character animation, viggle tutorial
 About
 - animatediff, live2d ai, ai character animation, viggle tutorial.
 - Full build: live2d ai, ai animation, ai character animation, viggle tutorial, ai animate.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
