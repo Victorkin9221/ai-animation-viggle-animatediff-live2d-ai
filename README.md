@@ -8,7 +8,7 @@ ___    ____   ___          _                 __  _
 
 # AI Animation
 
-> animatediff, live2d ai, ai character animation, viggle tutorial.
+> animatediff, live2d ai, ai character animation, viggle tutorial. for Windows
 
 **viggle** | **animatediff** | **live2d** | **ai-animation** | **motion-generation** | **character-animation**
 
@@ -18,9 +18,9 @@ ___    ____   ___          _                 __  _
 
 - animatediff, live2d ai, ai character animation, viggle tutorial.
 - Full build: live2d ai, ai animation, ai character animation, viggle tutorial, ai animate.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
